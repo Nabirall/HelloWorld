@@ -3,7 +3,6 @@ private String name;
 public Cat(){
 
 }
-
 public String getName() {
     return name;
 }
